@@ -43,3 +43,13 @@ Returns the current greeting stored in the contract. If no greeting is set, retu
 
 ### `set_greeting()`
 Sets a new greeting. The greeting cannot be empty.
+
+
+---
+
+This conrtact is deployed to
+hello.sleet.testnet and hello.sleet.near
+if you want to interact with it.
+
+
+copright 2025 by sleet.near
