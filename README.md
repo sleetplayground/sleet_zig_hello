@@ -31,7 +31,7 @@ near view YOUR_ACCOUNT.near get_greeting
 
 ### Set a new greeting
 ```bash
-near call YOUR_ACCOUNT.near set_greeting '{"message":"Your new greeting"}' --accountId YOUR_ACCOUNT.near
+near call YOUR_ACCOUNT.near set_greeting '{"greeting":"Your new greeting"}' --accountId YOUR_ACCOUNT.near
 ```
 
 Replace `YOUR_ACCOUNT.near` with your actual NEAR account name in all commands.
